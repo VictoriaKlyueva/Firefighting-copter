@@ -20,6 +20,6 @@
 
 ## More about project
   Landing pages:
-  https://kvantoriumproject.ru/gerasim
-  https://kvantoriumproject.ru/gerasim23 
+  - https://kvantoriumproject.ru/gerasim
+  - https://kvantoriumproject.ru/gerasim23 
   (you should wait some time page downloading, it's really interesting site)
